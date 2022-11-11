@@ -6,6 +6,6 @@ import HelloWorld from "./components/HelloWorld.vue";
 
 <template>
   <div class="h-screen flex justify-center items-center">
-    <h1 class="text-9xl font-bold">Barbersh.app 💈</h1>
+    <h1 class="text-4xl lg:text-9xl font-bold">Barbersh.app 💈</h1>
   </div>
 </template>
